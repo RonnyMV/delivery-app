@@ -301,3 +301,5 @@ back-end/.env.example
 front-end/.env
 front-end/.env
 back-end/.env.example
+
+DELIVERY-APP.code-workspace
