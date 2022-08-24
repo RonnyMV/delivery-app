@@ -1,12 +1,14 @@
 # Project Delivery App
-
-<img width=190 weight=120 src="https://camo.githubusercontent.com/3a45b69a7b9e8435d2b7dacc801e9dc515b2518190830104f77f547097363250/68747470733a2f2f692e696d6775722e636f6d2f756761577049732e706e67" width="200px" data-canonical-src="https://i.imgur.com/ugaWpIs.png" style="max-width: 100%;">
+ 
+<img width=150 weight=150 src="https://camo.githubusercontent.com/3a45b69a7b9e8435d2b7dacc801e9dc515b2518190830104f77f547097363250/68747470733a2f2f692e696d6775722e636f6d2f756761577049732e706e67" width="200px" data-canonical-src="https://i.imgur.com/ugaWpIs.png" style="max-width: 100%;">
 
 # Sobre
 
 <p dir="auto">Aplicação full stack de uma plataforma de delivery de bebidas desenvolvida em grupo durante meus estudos na <a href="https://www.betrybe.com/" rel="nofollow">Trybe</a>.</p>
 
 # Funcionalidades
+
+<img width=350 weight=180 src="https://github.com/RonnyMV/delivery-app/blob/app-delivery-complete/assets/readme/gif_1.gif?raw=true">
 
  <ul dir="auto">
 <li>
@@ -39,6 +41,7 @@
 <p dir="auto">Caso o usuário seja um administrador, cadastrar novos usuários vendedores, visualizar e excluir usuários existentes;</p>
 </li>
 </ul>
+<img width=350 weight=180 src="https://github.com/RonnyMV/delivery-app/blob/app-delivery-complete/assets/readme/gif_2.gif?raw=true">
 
 # Tecnologias utilizadas
 
