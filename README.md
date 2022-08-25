@@ -158,6 +158,3 @@ Na pasta frontend
 
 <pre class="notranslate"><code>npm start
 </code></pre>
-
-##### Referências
-Créditos para <a href="https://github.com/marllomartin">Marllon Martins</a> que elaborou este readme
